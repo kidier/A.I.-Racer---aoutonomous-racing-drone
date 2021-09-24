@@ -1,5 +1,5 @@
 # A.I.-Racer---aoutonomous-racing-drone
-THis drone was made in science club AGH Drone engineering
+This drone was made in science club AGH Drone engineering
 ![image](https://user-images.githubusercontent.com/53048230/134536327-ee0fe3f7-e8f4-43df-bca4-1517253eb824.png)
 ![image](https://user-images.githubusercontent.com/53048230/134537077-43234ad1-adfc-450b-ba5c-085216529109.png)
 ![image](https://user-images.githubusercontent.com/53048230/134537106-9849de0d-d753-48d5-b753-eea07d768dde.png)
